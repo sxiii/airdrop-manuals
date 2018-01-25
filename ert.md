@@ -1,4 +1,4 @@
-[ERT](http://t.me/EthearnalBot?start=164674875)
+[URL of ERT](http://t.me/EthearnalBot?start=164674875)
 
 Required: telegram.
 
