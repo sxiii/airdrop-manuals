@@ -1,4 +1,4 @@
-[HPT](http://t.housepanda.eu/hodl2bot?start=FRIEND31)
+[URL of HPT (HousePanda)](http://t.housepanda.eu/hodl2bot?start=FRIEND31)
 
 Required: telegram.
 
