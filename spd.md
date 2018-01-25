@@ -2,7 +2,7 @@
 
 Required: install app (desktop or mobile)
 
-1. Open the URL. 
+1. [Open the URL.](https://speedcoin.org/a/17378)
 2. Scroll down to "Download your Speedcoin wallet" and choose your platform. 
 3. Install wallet, run it, search for your wallet address and copy it (looks like: SY87fotufYjKEnZZiRH55faSNtYjBuEBKR). 
 4. Go to this webpage: https://speedcoin.org/info/free_coins/Free_Speedcoins.html. 
