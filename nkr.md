@@ -1,4 +1,4 @@
-NKR: http://vy.tc/eeA5r44
+URL: [NKR](http://vy.tc/eeA5r44)
 
 Required: email.
 
