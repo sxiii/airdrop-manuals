@@ -1,8 +1,8 @@
-URL: [CET](http://r.cetoken.me/invite?c=dbb418)
+[URL of CET](http://r.cetoken.me/invite?c=dbb418)
 
 Required: twitter & telegram.
 
-1. Open the URL. 
+1. [Open the URL](http://r.cetoken.me/invite?c=dbb418)
 2. Take your ETH address and enter it in the field, press enter or button.
 3. Copy the "invite code" on the lower part of the page - we will need it later. 
 4. Under "step 1" on the bottom-right, find the small "Tweet" link. Press it, log-in if you don't already and tweet the message. 
