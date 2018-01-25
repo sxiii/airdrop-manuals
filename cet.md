@@ -10,3 +10,5 @@ Required: twitter & telegram.
 6. Next step, open telegram https://t.me/CNN_Blockchain channel and join it. 
 7. Now find the verify bot in telegram: @cnn_verify_bot and send a message to this bot with your previosly copied invite code (mine is dbb418). 
 8. Bot will answer that you have been registered. That's it, you can also use the link from your tweet to send to your friends.
+
+For each referred friend, you will get 128 CNN tokens.
