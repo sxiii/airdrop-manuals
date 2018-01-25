@@ -1,5 +1,7 @@
 [URL of SWIFT](https://www.swiftdemand.com/?referred_by=sxiii)
 
+Required: email, full address, phone confirmation SMS.
+
 1. [Open the URL.](https://www.swiftdemand.com/?referred_by=sxiii) 
 2. On the right, fill in: 
 * First Name,
