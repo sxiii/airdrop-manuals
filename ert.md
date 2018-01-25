@@ -15,6 +15,7 @@ Required: telegram.
 * Please subscribe to our youtube channel and type below what is the last word said in this video (majority)
 * What is the name of our token? The abbreviature (ERT)
 * What is the Medium name of Ethereal (Ethereal, lol)
+* How many founders does Ethereal has (2)
 * Some other questions.
 
 If you fail to answer question, don't worry, you can try again OR write command "/abandon" and then again "/address" to answer another questions and fill-in your address.
