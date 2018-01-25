@@ -1,4 +1,4 @@
-DLBX: https://rewards.dlbx.io/?ref=YhjqNwxm
+URL: [DLBX](https://rewards.dlbx.io/?ref=YhjqNwxm)
 
 Required: email and 10 referrals.
 
