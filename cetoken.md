@@ -1,4 +1,4 @@
-[CET](http://r.cetoken.me/invite?c=dbb418)
+URL: [CET](http://r.cetoken.me/invite?c=dbb418)
 
 Required: twitter & telegram.
 
