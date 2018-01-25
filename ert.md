@@ -8,13 +8,14 @@ Required: telegram.
 4. After joining, please get back to the bot @EthearnalBot and type-in "/ethearnal".
 5. You should get 1 ERT token. Now, type-in "/address" command. 
 6. You have to verify that you're human. For this, you have to answer two questions. Questions are always different, like:
-* Is the Ethereal token sale started? (yes)
+* Is the Ethearnal token sale started? (yes)
 * Copy something from their twitter (desciption) or facebook (about section)
 * What is the price of 1 ERT token in Ether? (0.001)
 * Are we the first ICO 2.0 that allows token holders to vote on the funds spending? (yes)
 * Please subscribe to our youtube channel and type below what is the last word said in this video (majority)
 * What is the name of our token? The abbreviature (ERT)
-* What is the Medium name of Ethereal (Ethereal, lol)
+* What is the Medium name of Ethereal (EthearnalBot, lol)
+* What is the name of the project (Ethearnal)
 * How many founders does Ethereal has (2)
 * Some other questions.
 
