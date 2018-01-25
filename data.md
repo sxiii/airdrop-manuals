@@ -1,8 +1,8 @@
-URL: [DTA (DATA)](http://refer.data.eco/invite/21GiTTTg)
+[URL of DTA (DATA)](http://refer.data.eco/invite/21GiTTTg)
 
 Required: telegram.
 
-1. Open the URL. 
+1. [Open the URL](http://refer.data.eco/invite/21GiTTTg)
 2. Take your ETH address and enter it in the field. 
 3. Press enter or telegram arrow. 
 4. Now copy the code ("/code:XXX...") from the field 2. 
