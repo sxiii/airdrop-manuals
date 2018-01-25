@@ -1,4 +1,4 @@
-[SHINE](http://shine.tokenairdrop.info/en/invitations/?from=0ca01de6cf)
+URL: [SHINE](http://shine.tokenairdrop.info/en/invitations/?from=0ca01de6cf)
 
 Required: telegram & twitter.
 
