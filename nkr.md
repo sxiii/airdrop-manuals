@@ -1,8 +1,8 @@
-URL: [NKR](http://vy.tc/eeA5r44)
+[URL of NKR](http://vy.tc/eeA5r44)
 
 Required: email.
 
-1. Open the URL. 
+1. [Open the URL.](http://vy.tc/eeA5r44)
 2. Press the yellow button "let's earn tokens". 
 3. Fill-in: 
 *Name, 
