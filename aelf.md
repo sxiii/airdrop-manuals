@@ -1,4 +1,4 @@
-[AELF](https://candy.aelf.io/account/register?invitationCode=0M0L9E5SbE2Q)
+[URL of AELF](https://candy.aelf.io/account/register?invitationCode=0M0L9E5SbE2Q)
 
 Required: email.
 
