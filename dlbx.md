@@ -1,8 +1,8 @@
-URL: [DLBX](https://rewards.dlbx.io/?ref=YhjqNwxm)
+[URL of DLBX](https://rewards.dlbx.io/?ref=YhjqNwxm)
 
 Required: email and 10 referrals.
 
-1. Open the url. 
+1. [Open the url](https://rewards.dlbx.io/?ref=YhjqNwxm) 
 2. In the large box on the left, type-in your email address. 
 3. Check for email with confirmation of your subscription. 
 4. You should also share your referral URL (it is written on the DLBX page and looks like this: https://rewards.dlbx.io/?ref=YhjqNwxm) with 10 or more of your friends. 
