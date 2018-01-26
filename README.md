@@ -32,7 +32,7 @@ spd.md | Speedcoins | Global digital internet currency | 500 SPD join + 500 SPD 
 sps.md | | |
 svd.md | | |
 swift.md | Swift Demand | Basic income platform | 
-victra.md | Victra | Virtual Independent Coin, cryptocurrency telegram bot | 
+vic.md | Victra | Virtual Independent Coin, cryptocurrency telegram bot | 
 viu.md | | |
 wcex.md | | |
 wizzle.md | Wizzle Platform | Token exchange with fiat and more | 
