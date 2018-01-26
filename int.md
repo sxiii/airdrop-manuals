@@ -1,5 +1,7 @@
 [InBot (INT)](https://inbot.io/join/rykydYSrM)
 
+Required: email & telegram.
+
 1. [Open the URL.](https://inbot.io/join/rykydYSrM)
 2. Press the white "GET IN" button. 
 3. Type-in your email address. 
