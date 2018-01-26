@@ -14,12 +14,12 @@ crnc.md | Current - Next generation of media streaming |
 data.md | Decentralized AI-powered Trust Alliance | 
 dlbx.md | DealBox - blockchain business accelerator and crowdfunding platform | 
 dock.md | Dock - Decentralized Professional Data Exchange | 
-dvd.md | | 
+dvd.md | | 2 DVD join + 1 DVD ref
 ebc.md | EBCoin - travel cashback system | 
 ert.md | Ethearnal - P2P freelance system |
 freebitcoin.md | | 
 hbt.md | | 
-[hc.md] | HedgeConnect - Crypto Hedge Fund | 
+[[hc.md]] | HedgeConnect - Crypto Hedge Fund | 
 hpt.md | HousePanda - First ICO supported by NVIDIA (topic: supercomputers, research) | 
 int.md | | 
 legit.md | | 
@@ -28,7 +28,7 @@ phoneum.md | |
 pm7.md | | 
 rfr.md | Refereum - gaming rewards system | 
 shine.md | A Global Mutual Insurance Community Based on Blockchain Technology | 
-spd.md | Speedcoins - Global digital internet currency | 500 + 500 SPD
+spd.md | Speedcoins - Global digital internet currency | 500 SPD join + 500 SPD fb
 sps.md | | 
 svd.md | | 
 swift.md | Swift Demand - basic income platform | 
