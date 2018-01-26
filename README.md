@@ -12,7 +12,7 @@ connectx.md | |
 crnc.md | | 
 data.md | Decentralized AI-powered Trust Alliance | 
 dlbx.md | DealBox - blockchain business accelerator and crowdfunding platform | 
-dock.md | | 
+dock.md | Dock - Decentralized Professional Data Exchange | 
 dvd.md | | 
 ebc.md | | 
 ert.md | | 
