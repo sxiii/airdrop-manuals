@@ -12,7 +12,7 @@ cet.md | CNN | Content-neutrality network |
 connectx.md | ConnectX | Private network of small satellites for storing cryptowallets | 
 crnc.md | Current | Next generation of media streaming | 
 data.md | DATA | Decentralized AI-powered Trust Alliance | 
-dlbx.md | DealBox | blockchain business accelerator and crowdfunding platform | 
+dlbx.md | DealBox | Blockchain business accel. & crowdfunding platform | 
 dock.md | Dock | Decentralized Professional Data Exchange | 
 dvd.md | Dividend | Secure email-based communications | 2 DVD join + 1 DVD ref
 ebc.md | EBCoin | travel cashback system | 
@@ -23,14 +23,14 @@ hbt.md | HeardBeats | VR for taking part in concerts |
 hpt.md | HousePanda | First ICO supported by NVIDIA (topic: supercomputers, research) | 
 int.md | InToken | Cryptocurrency for AI-powered B2B referrals |
 legit.md | LegitCoin | Crypto & ATM card |
-nkr.md | NKOR | New standard for veriﬁcation and distribution of digital data | 
+nkr.md | NKOR | New standard for veriﬁcation & distribution of digital data | 
 phoneum.md | Phoneum | Mobile-only cryptocurrency |
 pm7.md | PM7 | Affiliate marketing platform |
 rfr.md | Refereum | gaming rewards system | 
 shine.md | SHINE | A Global Mutual Insurance Community Based on Blockchain Technology | 
 spd.md | Speedcoins | Global digital internet currency | 500 SPD join + 500 SPD fb
 sps.md | SuchApp | Blockchain-enabled, multi-channel messaging platform |
-svd.md | SaveDroid | AI-fueled ecosystem of crypto saving and investing for the masses |
+svd.md | SaveDroid | AI-fueled ecosystem of crypto saving & investing |
 swift.md | Swift Demand | Basic income platform | 
 vic.md | Victra | Virtual Independent Coin, cryptocurrency telegram bot | 
 viu.md | Viuly | Decentralized video sharing | 50 VIU reg + 10 VIU ref
