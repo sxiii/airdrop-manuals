@@ -14,7 +14,7 @@ crnc.md | Current | Next generation of media streaming |
 data.md | DATA | Decentralized AI-powered Trust Alliance | 
 dlbx.md | DealBox | blockchain business accelerator and crowdfunding platform | 
 dock.md | Dock | Decentralized Professional Data Exchange | 
-dvd.md | Dividend |  | 2 DVD join + 1 DVD ref
+dvd.md | Dividend | Secure email-based communications | 2 DVD join + 1 DVD ref
 ebc.md | EBCoin | travel cashback system | 
 ert.md | Ethearnal | P2P freelance system |
 freebitcoin.md | | |
