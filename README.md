@@ -19,7 +19,7 @@ ert.md | |
 freebitcoin.md | | 
 hbt.md | | 
 hc.md | | 
-hpt.md | HousePanda - First ICO supported by NVIDIA, world leader in AI supercomputers and cryptocurrency mining | 
+hpt.md | HousePanda - First ICO supported by NVIDIA (topic: supercomputers, research) | 
 int.md | | 
 legit.md | | 
 nkr.md | NKOR - New standard for veriﬁcation and distribution of digital data | 
