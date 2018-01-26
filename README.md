@@ -26,7 +26,7 @@ Manual file | Project name | Topic | Coins #
 [nkr.md](nkr.md) | NKOR | New standard for veriﬁcation & distribution of digital data | 
 [phoneum.md](phoneum.md) | Phoneum | Mobile-only cryptocurrency |
 [pm7.md](pm7.md) | PM7 | Affiliate marketing platform |
-[rfr.md](rfr.md) | Refereum | gaming rewards system | 
+[rfr.md](rfr.md) | Refereum | Gaming rewards system | 
 [shine.md](shine.md) | SHINE | A Global Mutual Insurance Community Based on Blockchain Technology | 
 [spd.md](spd.md) | Speedcoins | Global digital internet currency | 500 SPD join + 500 SPD fb
 [sps.md](sps.md) | SuchApp | Blockchain-enabled, multi-channel messaging platform |
