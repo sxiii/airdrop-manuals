@@ -9,7 +9,7 @@ aget.md | AGETron | Fast digital currency | 10 AGET
 altcoin.md | Altcoin | Decentralized crypto-exchange powered by atomic swaps | 
 ccrb.md | CryptoCarbon | World's most innovative consumer-oriented cryptocurrency | 
 cet.md | CNN | Content-neutrality network | 
-connectx.md | | | 
+connectx.md | ConnectX | Private network of small satellites for storing cryptowallets | 
 crnc.md | Current | Next generation of media streaming | 
 data.md | DATA | Decentralized AI-powered Trust Alliance | 
 dlbx.md | DealBox | blockchain business accelerator and crowdfunding platform | 
@@ -29,11 +29,11 @@ pm7.md | | |
 rfr.md | Refereum | gaming rewards system | 
 shine.md | SHINE | A Global Mutual Insurance Community Based on Blockchain Technology | 
 spd.md | Speedcoins | Global digital internet currency | 500 SPD join + 500 SPD fb
-sps.md | | |
-svd.md | | |
+sps.md | SuchApp | Blockchain-enabled, multi-channel messaging platform |
+svd.md | SaveDroid | AI-fueled ecosystem of crypto saving and investing for the masses |
 swift.md | Swift Demand | Basic income platform | 
 vic.md | Victra | Virtual Independent Coin, cryptocurrency telegram bot | 
-viu.md | | |
+viu.md | Viuly | Decentralized video sharing | 50 VIU reg + 10 VIU ref
 wcex.md | | |
 wizzle.md | Wizzle Platform | Token exchange with fiat and more | 
 zonto.md | | |
