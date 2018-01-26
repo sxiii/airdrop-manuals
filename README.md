@@ -17,7 +17,7 @@ dock.md | Dock | Decentralized Professional Data Exchange |
 dvd.md | Dividend | Secure email-based communications | 2 DVD join + 1 DVD ref
 ebc.md | EBCoin | travel cashback system | 
 ert.md | Ethearnal | P2P freelance system |
-freebitcoin.md | | |
+freebitcoin.md | FreeBitcoin | Bitcoin referral faucet | ...satoshis
 hbt.md | | |
 [[hc.md]] | HedgeConnect | Crypto Hedge Fund | 
 hpt.md | HousePanda | First ICO supported by NVIDIA (topic: supercomputers, research) | 
