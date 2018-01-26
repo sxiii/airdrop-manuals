@@ -6,9 +6,9 @@ Manual file | Project name | Topic | Coins #
 | - | - | - | - |
 aelf.md | AELF | Decentralized Cloud Computing Blockchain Network | 
 aget.md | AGETron | Fast digital currency | 10 AGET
-altcoin.md | | | 
+altcoin.md | Altcoin | Decentralized crypto-exchange powered by atomic swaps | 
 ccrb.md | CryptoCarbon | World's most innovative consumer-oriented cryptocurrency | 
-cet.md | Content-neutrality network | 
+cet.md | CNN | Content-neutrality network | 
 connectx.md | | | 
 crnc.md | Current | Next generation of media streaming | 
 data.md | DATA | Decentralized AI-powered Trust Alliance | 
