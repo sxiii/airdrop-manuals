@@ -19,10 +19,10 @@ ert.md | |
 freebitcoin.md | | 
 hbt.md | | 
 hc.md | | 
-hpt.md | | 
+hpt.md | HousePanda - First ICO from a startup incubated by NVIDIA, world leader in AI supercomputers and cryptocurrency mining | 
 int.md | | 
 legit.md | | 
-nkr.md | | 
+nkr.md | NKOR - New standard for veriﬁcation and distribution of digital data | 
 phoneum.md | | 
 pm7.md | | 
 rfr.md | | 
