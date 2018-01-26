@@ -34,6 +34,6 @@ swift.md | |
 victra.md | | 
 viu.md | | 
 wcex.md | | 
-wizzle.md | | 
+wizzle.md | Wizzle Platform - token exchange with fiat and more | 
 zonto.md | | 
 
