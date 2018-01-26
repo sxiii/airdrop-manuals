@@ -19,7 +19,7 @@ ebc.md | EBCoin | travel cashback system |
 ert.md | Ethearnal | P2P freelance system |
 freebitcoin.md | FreeBitcoin | Bitcoin referral faucet | ...satoshis
 hbt.md | HeardBeats | VR for taking part in concerts |
-[[hc.md]] | HedgeConnect | Crypto Hedge Fund | 
+(hc.md) | HedgeConnect | Crypto Hedge Fund | 
 hpt.md | HousePanda | First NVIDIA-baked (supercomputers, research) | 
 int.md | InToken | Cryptocurrency for AI-powered B2B referrals |
 legit.md | LegitCoin | Crypto & ATM card |
