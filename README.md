@@ -15,7 +15,7 @@ Manual file | Project name | Topic | Coins #
 [dlbx.md](dlbx.md) | DealBox | Blockchain business accel. & crowdfunding platform | 
 [dock.md](dock.md) | Dock | Decentralized Professional Data Exchange | 
 [dvd.md](dvd.md) | Dividend | Secure email-based communications | 2 DVD join + 1 DVD ref
-[ebc.md](ebc.md) | EBCoin | travel cashback system | 
+[ebc.md](ebc.md) | EBCoin | Travel cashback system | 
 [ert.md](ert.md) | Ethearnal | P2P freelance system |
 [freebitcoin.md](freebitcoin.md) | FreeBitcoin | Bitcoin referral faucet | ...satoshis
 [hbt.md](hbt.md) | HeardBeats | VR for taking part in concerts |
