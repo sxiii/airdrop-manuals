@@ -14,11 +14,11 @@ data.md | Decentralized AI-powered Trust Alliance |
 dlbx.md | DealBox - blockchain business accelerator and crowdfunding platform | 
 dock.md | Dock - Decentralized Professional Data Exchange | 
 dvd.md | | 
-ebc.md | | 
-ert.md | Ethearnal - P2P freelance system | https://ethearnal.com
+ebc.md | EBCoin - travel cashback system | 
+ert.md | Ethearnal - P2P freelance system |
 freebitcoin.md | | 
 hbt.md | | 
-hc.md | | 
+[hc.md] | HedgeConnect - Crypto Hedge Fund | 
 hpt.md | HousePanda - First ICO supported by NVIDIA (topic: supercomputers, research) | 
 int.md | | 
 legit.md | | 
