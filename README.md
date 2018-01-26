@@ -5,6 +5,7 @@ Cryptocurrency airdrop manuals in english and russian (later)
 Project name | Topic | Coins #
 | - | - | - |
 aelf.md | Decentralized Cloud Computing Blockchain Network | 
+aget.md | Fast digital currency | 10 AGET
 altcoin.md | | 
 ccrb.md | CryptoCarbon - World's most innovative consumer-oriented cryptocurrency | 
 cet.md | Content-neutrality network | 
@@ -27,7 +28,7 @@ phoneum.md | |
 pm7.md | | 
 rfr.md | Refereum - gaming rewards system | 
 shine.md | A Global Mutual Insurance Community Based on Blockchain Technology | 
-spd.md | | 
+spd.md | Speedcoins - Global digital internet currency | 500 + 500 SPD
 sps.md | | 
 svd.md | | 
 swift.md | Swift Demand - basic income platform | 
