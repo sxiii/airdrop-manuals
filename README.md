@@ -34,7 +34,7 @@ svd.md | SaveDroid | AI-fueled ecosystem of crypto saving & investing |
 swift.md | Swift Demand | Basic income platform | 
 vic.md | Victra | Virtual Independent Coin, cryptocurrency telegram bot | 
 viu.md | Viuly | Decentralized video sharing | 50 VIU reg + 10 VIU ref
-wcex.md | | The Global Digital Currency Exchange |
+wcex.md | WCXT | The Global Digital Currency Exchange |
 wizzle.md | Wizzle Platform | Token exchange with fiat and more | 
 zonto.md | Zonto | Social Network |
 
