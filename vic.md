@@ -1,4 +1,4 @@
-[Victra](https://t.me/victrabot?start=164674875)
+[URL of Victra](https://t.me/victrabot?start=164674875)
 
 Required: telegram.
 
