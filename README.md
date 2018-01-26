@@ -20,7 +20,7 @@ ert.md | Ethearnal | P2P freelance system |
 freebitcoin.md | FreeBitcoin | Bitcoin referral faucet | ...satoshis
 hbt.md | HeardBeats | VR for taking part in concerts |
 [[hc.md]] | HedgeConnect | Crypto Hedge Fund | 
-hpt.md | HousePanda | First ICO supported by NVIDIA (topic: supercomputers, research) | 
+hpt.md | HousePanda | First ICO supported by NVIDIA (supercomputers, research) | 
 int.md | InToken | Cryptocurrency for AI-powered B2B referrals |
 legit.md | LegitCoin | Crypto & ATM card |
 nkr.md | NKOR | New standard for veriﬁcation & distribution of digital data | 
