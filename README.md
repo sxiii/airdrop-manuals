@@ -12,6 +12,7 @@ Manual file | Project name | Topic | Coins #
 [aget.md](aget.md) | AGETron | Fast digital currency | 10 AGET
 [altcoin.md](altcoin.md) | Altcoin | Decentralized crypto-exchange with atomic swaps | 
 [bmx.md](bmx.md) | BMX | BitMart - Digital assets exchange platform |
+[bs.md](bs.md) | DBC | Bounty Starter |
 [ccrb.md](ccrb.md) | CryptoCarbon | Innovative consumer-oriented cryptocurrency | 
 [cet.md](cet.md) | CNN | Content-neutrality network | 
 [cgm.md](cgm.md) | CGM | ClickGem Global payment solutions with affiliate bonuses | 
@@ -19,7 +20,7 @@ Manual file | Project name | Topic | Coins #
 [connectx.md](connectx.md) | ConnectX | Private network of small satellites for storing cryptowallets | 
 [crnc.md](crnc.md) | Current | Next generation of media streaming | 
 [data.md](data.md) | DATA | Decentralized AI-powered Trust Alliance | 
-[dbc.md](dbc.md) | DBC | Bounty Starter |
+[dbc.md](dbc.md) | DBC | Blockchain Deposit Decentralized Network |
 [dlbx.md](dlbx.md) | DealBox | Blockchain business accel. & crowdfunding platform | 
 [dock.md](dock.md) | Dock | Decentralized Professional Data Exchange | 
 [dvd.md](dvd.md) | Dividend | Secure email-based communications | 2 DVD join + 1 DVD ref
