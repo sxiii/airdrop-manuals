@@ -1,4 +1,4 @@
-[URL of Bounty Starter (DBC)](https://bountystarter.io/partners/05dd287873cb0a418344e43e4ceec003edd1a143)
+[URL of Bounty Starter](https://bountystarter.io/partners/05dd287873cb0a418344e43e4ceec003edd1a143)
 
 Requirements: email or facebook/twitter/google.
 
@@ -9,3 +9,4 @@ Requirements: email or facebook/twitter/google.
 
 You can find your referral ("partner") link in the profile (the long one).
 
+This project is partnered with [DBC](dbc.md).
