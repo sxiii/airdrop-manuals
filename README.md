@@ -2,7 +2,7 @@
 Cryptocurrency airdrop manuals in english and russian (later)
 
 ## Latest updates
-27 january 2018
+28 january 2018
 
 ## Table of contents
 Manual file | Project name | Topic | Coins #
