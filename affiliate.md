@@ -8,6 +8,6 @@ Requirements:
 4. Accept terms & email communication, solve captcha & press "Create new account" green button.
 5. Check your mail to click on verification link. That's it.
 
-You can find your referral link
+You can find your referral link in your account.
 
-After registration you get 25 AFL (Affiliate Coins)
+After registration you get 25 AFL (Affiliate Coins).
