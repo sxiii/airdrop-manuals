@@ -1,4 +1,4 @@
-[URL of Affiliate Coin](https://www.affiliatecoin.io/?ref=37c2ccbd-4b15-4831-85df-083854459b82)
+[URL of Affiliate Coin (AFL)](https://www.affiliatecoin.io/?ref=37c2ccbd-4b15-4831-85df-083854459b82)
 
 Requirements:
 
