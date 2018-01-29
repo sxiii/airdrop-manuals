@@ -17,6 +17,7 @@ Manual file | Project name | Topic | Coins #
 [cet.md](cet.md) | CNN | Content-neutrality network | 
 [cgm.md](cgm.md) | CGM | ClickGem Global payment solutions with affiliate bonuses | 
 [cic.md](cic.md) | CIC | Insurance platform for the blockchain world |
+[clbk.md](clbk.md) | CLBK | Cellblocks - digital currency for prison inmates |
 [connectx.md](connectx.md) | ConnectX | Private network of small satellites for storing cryptowallets | 
 [crnc.md](crnc.md) | Current | Next generation of media streaming | 
 [data.md](data.md) | DATA | Decentralized AI-powered Trust Alliance | 
@@ -48,6 +49,7 @@ Manual file | Project name | Topic | Coins #
 [vic.md](vic.md) | Victra | Virtual Independent Coin, cryptocurrency telegram bot | 
 [viu.md](viu.md) | Viuly | Decentralized video sharing | 50 VIU reg + 10 VIU ref
 [wcex.md](wcex.md) | WCXT | The Global Digital Currency Exchange |
+[wfee.md](wfee.md) | WFee | WFee Telegram Bot |
 [wizzle.md](wizzle.md) | Wizzle Platform | Token exchange with fiat and more | 
 [zonto.md](zonto.md) | Zonto | Social Network |
 
